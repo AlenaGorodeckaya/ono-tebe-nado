@@ -1,1 +1,1 @@
-(https://github.com/AlenaGorodeckaya/ono-tebe-nado)
+https://github.com/AlenaGorodeckaya/ono-tebe-nado
